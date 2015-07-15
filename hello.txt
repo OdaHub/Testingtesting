@@ -4,3 +4,4 @@ Jeg ser det...
 added a small line from server
 added work comp
 trying again rebase, server
+testing rebase, adding work comp
