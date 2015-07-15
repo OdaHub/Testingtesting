@@ -1,3 +1,4 @@
 Hello hello, denne blir pull
 La til en linje, jeg
 Jeg ser det...
+added a small line from server
