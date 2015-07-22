@@ -1,0 +1,15 @@
+         1                                                                     mv -f ESTRUC_a-003 ESTRUC_b+000
+         2                                                                        mv ESTRUC_b+000 ESTRUC_a-003
+         3                                                                                     rm -f ESTRUC_b*
+         4                                                                     mv -f ESTRUC_a-003 ESTRUC_b+000
+         5                                                                        mv ESTRUC_b+000 ESTRUC_a-003
+         6                                                                                     rm -f ESTRUC_b*
+         7                                                                     mv -f ESTRUC_a-001 ESTRUC_b+000
+         8                                                                        mv ESTRUC_b+000 ESTRUC_a-001
+         9                                                                                     rm -f ESTRUC_b*
+        10                                                                     mv -f ESTRUC_a-003 ESTRUC_b+000
+        11                                                                        mv ESTRUC_b+000 ESTRUC_a-003
+        12                                                                                     rm -f ESTRUC_b*
+        13                                                                     mv -f ESTRUC_a+000 ESTRUC_b+000
+        14                                                                        mv ESTRUC_b+000 ESTRUC_a+000
+        15                                                                                     rm -f ESTRUC_b*

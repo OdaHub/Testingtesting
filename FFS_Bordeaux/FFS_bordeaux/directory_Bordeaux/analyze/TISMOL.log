@@ -1,0 +1,192 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.7.21)  11 FEB 2015 15:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**TISMOL.tex
+(./TISMOL.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+
+LaTeX Warning: Unused global option(s):
+    [english].
+
+(./TISMOL.aux)
+\openout1 = `TISMOL.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+File: Morse.eps Graphic file (type eps)
+ <Morse.eps>
+File: PCROSS.001.eps Graphic file (type eps)
+ <PCROSS.001.eps>
+File: runPCROSS.001.eps Graphic file (type eps)
+ <runPCROSS.001.eps>
+File: errPCROSS.001.eps Graphic file (type eps)
+
+<errPCROSS.001.eps>
+File: L.001.eps Graphic file (type eps)
+ <L.001.eps>
+File: PCROSS.002.eps Graphic file (type eps)
+ <PCROSS.002.eps>
+File: runPCROSS.002.eps Graphic file (type eps)
+ <runPCROSS.002.eps>
+File: errPCROSS.002.eps Graphic file (type eps)
+
+<errPCROSS.002.eps>
+File: L.002.eps Graphic file (type eps)
+ <L.002.eps>
+File: PCROSS.003.eps Graphic file (type eps)
+ <PCROSS.003.eps>
+File: runPCROSS.003.eps Graphic file (type eps)
+ <runPCROSS.003.eps>
+File: errPCROSS.003.eps Graphic file (type eps)
+
+<errPCROSS.003.eps>
+File: L.003.eps Graphic file (type eps)
+ <L.003.eps>
+File: PCROSS.004.eps Graphic file (type eps)
+ <PCROSS.004.eps>
+File: runPCROSS.004.eps Graphic file (type eps)
+ <runPCROSS.004.eps>
+File: errPCROSS.004.eps Graphic file (type eps)
+
+<errPCROSS.004.eps>
+File: L.004.eps Graphic file (type eps)
+ <L.004.eps>
+File: PCROSS.005.eps Graphic file (type eps)
+ <PCROSS.005.eps>
+File: runPCROSS.005.eps Graphic file (type eps)
+ <runPCROSS.005.eps>
+File: errPCROSS.005.eps Graphic file (type eps)
+
+<errPCROSS.005.eps>
+File: L.005.eps Graphic file (type eps)
+ <L.005.eps>
+File: PCROSS.006.eps Graphic file (type eps)
+ <PCROSS.006.eps>
+File: runPCROSS.006.eps Graphic file (type eps)
+ <runPCROSS.006.eps>
+File: errPCROSS.006.eps Graphic file (type eps)
+
+<errPCROSS.006.eps>
+File: L.006.eps Graphic file (type eps)
+ <L.006.eps>
+File: L.000.eps Graphic file (type eps)
+ <L.000.eps>
+File: errT0.000.eps Graphic file (type eps)
+ <errT0.000.eps>
+File: errT1.001.eps Graphic file (type eps)
+ <errT1.001.eps>
+File: SHOOT001.eps Graphic file (type eps)
+
+<SHOOT001.eps>
+File: SHOOT2_001.eps Graphic file (type eps)
+ <SHOOT2_001.eps>
+File: SHOOT002.eps Graphic file (type eps)
+ <SHOOT002.eps>
+File: SHOOT2_002.eps Graphic file (type eps)
+ <SHOOT2_002.eps>
+File: SHOOT003.eps Graphic file (type eps)
+ <SHOOT003.eps>
+File: SHOOT2_003.eps Graphic file (type eps)
+
+<SHOOT2_003.eps>
+File: SHOOT004.eps Graphic file (type eps)
+ <SHOOT004.eps>
+File: SHOOT2_004.eps Graphic file (type eps)
+ <SHOOT2_004.eps>
+File: SHOOT005.eps Graphic file (type eps)
+ <SHOOT005.eps>
+File: SHOOT2_005.eps Graphic file (type eps)
+
+<SHOOT2_005.eps>
+File: SHOOT006.eps Graphic file (type eps)
+ <SHOOT006.eps>
+File: SHOOT2_006.eps Graphic file (type eps)
+ <SHOOT2_006.eps>
+File: SHOOT000.eps Graphic file (type eps)
+ <SHOOT000.eps>
+File: SHOOT2_000.eps Graphic file (type eps)
+
+<SHOOT2_000.eps>
+File: TOTPCROSS.eps Graphic file (type eps)
+ <TOTPCROSS.eps> [1
+
+] [2] [3] (./summary.tex
+Overfull \hbox (102.92845pt too wide) in paragraph at lines 31--31
+[] \OT1/cmtt/m/n/12 NEFFCROSS/NCROSS                       NaN                 
+      NaN                       NaN[] 
+ []
+
+[4
+
+] [5
+
+] [6
+
+] [7
+
+]) [8
+
+] (./TISMOL.aux) ) 
+Here is how much of TeX's memory you used:
+ 610 strings out of 493305
+ 7445 string characters out of 6139897
+ 69975 words of memory out of 5000000
+ 4088 multiletter control sequences out of 15000+600000
+ 4107 words of font info for 16 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 25i,4n,23p,212b,155s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on TISMOL.dvi (8 pages, 24240 bytes).

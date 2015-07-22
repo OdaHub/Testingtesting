@@ -1,0 +1,20 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=latex 2005.9.12)  28 MAR 2008 13:54
+entering extended mode
+**TISMOL.tex
+(/usr/share/texmf/tex/latex/tools/x.tex
+! Interruption.
+<to be read again> 
+                   \begingroup 
+l.1 
+    %%
+? x
+ 
+Here is how much of TeX's memory you used:
+ 9 strings out of 94500
+ 207 string characters out of 1172833
+ 48348 words of memory out of 3500000
+ 3273 multiletter control sequences out of 10000+50000
+ 3640 words of font info for 14 fonts, out of 500000 for 2000
+ 580 hyphenation exceptions out of 1000
+ 3i,0n,1p,28b,6s stack positions out of 1500i,500n,5000p,200000b,5000s
+No pages of output.

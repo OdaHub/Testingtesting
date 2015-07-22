@@ -1,0 +1,24 @@
+POTENTIAL  WCA EXTERNAL PBD HARMOSC PBD
+#-----------HARMONIC OSCILATOR----------------
+KHARM 10.D0
+#-----------PBD Model Parameters--------------
+DAT     5.0E-002
+DGC     7.5E-002
+AAT     4.20
+AGC     6.90
+S       0.025
+RHO     2.00
+ALPHA   0.350
+#-----------WCA MODEL PARAMETERS---------------
+WCA_EPSILON 2.D0
+WCA_SIGMA 1.D0
+WCA_H 6.D0
+WCA_W 0.25D0
+
+#-----------2D HARMONIC OSCILATOR----------------
+KXHARM 1.D0
+KYHARM .1D0
+XHARM  0.D0
+YHARM  1.D0
+YCUT   1.d0
+
